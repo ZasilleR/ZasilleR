@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/_kle1kaBYp8AAAAC/to-love-ru-lala-deviluke.gif" width="600">
+</p>
+
 # Hi there 👋, I'm ZasilleR
 
 ### 🛠 My Skills:
