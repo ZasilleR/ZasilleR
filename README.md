@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/_kle1kaBYp8AAAAC/to-love-ru-lala-deviluke.gif" width="50%"><img src="https://media1.tenor.com/m/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif" width="50%">
+</p>
+
 <img src="https://media1.tenor.com/m/_kle1kaBYp8AAAAC/to-love-ru-lala-deviluke.gif" width="50%">
 
 # Hi there 👋, I'm ZasilleR
