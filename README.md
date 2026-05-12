@@ -14,5 +14,5 @@
 * 📺 **Anime:** Always up for watching some good titles.
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif" width="400">
+  <img src="https://media1.tenor.com/m/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif" width="30%">
 </p>
