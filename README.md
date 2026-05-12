@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/_kle1kaBYp8AAAAC/to-love-ru-lala-deviluke.gif" width="600">
+  <img src="https://media1.tenor.com/m/_kle1kaBYp8AAAAC/to-love-ru-lala-deviluke.gif" width="300">
 </p>
 
 # Hi there 👋, I'm ZasilleR
@@ -14,5 +14,5 @@
 * 📺 **Anime:** Always up for watching some good titles.
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif" width="600">
+  <img src="https://media1.tenor.com/m/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif" width="300">
 </p>
