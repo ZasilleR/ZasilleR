@@ -4,8 +4,8 @@
 
 # Hi there 👋, I'm ZasilleR
 
-<p align="right">
-  <img src="https://media1.tenor.com/m/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif" width="300">
+<p>
+  <img src="https://media1.tenor.com/m/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif" align="right" width="300">
 </p>
     
 ### 🛠 My Skills:
