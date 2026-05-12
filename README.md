@@ -4,6 +4,8 @@
 
 # Hi there 👋, I'm ZasilleR
 
+<img src="https://media1.tenor.com/m/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif" align="right" width="300" style="margin-left: 10px;">>
+
 ### 🛠 My Skills:
 * 🐍 **Programming:** Learning Python, C#, and Fullstack Web Development (Frontend & Backend).
 * ⚙️ **Hardware:** Experienced in PC hardware maintenance and BIOS configuration.
